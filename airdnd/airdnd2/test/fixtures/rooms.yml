@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  created_when: 2017-11-03 23:46:55
+  seen_by_count: 1
+  description: MyString
+  price: 1
+  image_url: MyString
+
+two:
+  user: two
+  created_when: 2017-11-03 23:46:55
+  seen_by_count: 1
+  description: MyString
+  price: 1
+  image_url: MyString

@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  password: MyString
+  registered_when: 2017-11-03 23:40:56
+  total_response_time: 1
+  response_count: MyString
+  integer: MyString
+  total_rating: MyString
+  integer: MyString
+  rating_count: MyString
+  integer: MyString
+  email: MyString
+
+two:
+  username: MyString
+  password: MyString
+  registered_when: 2017-11-03 23:40:56
+  total_response_time: 1
+  response_count: MyString
+  integer: MyString
+  total_rating: MyString
+  integer: MyString
+  rating_count: MyString
+  integer: MyString
+  email: MyString

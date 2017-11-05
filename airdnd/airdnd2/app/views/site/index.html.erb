@@ -1,0 +1,13 @@
+<% provide(:title, 'AirDnD') %>
+
+<%=
+  if @showRegisteredUserMenu
+    react_component 'RegisteredUserMenu', {username: @username}
+  else
+    react_component 'NotUserMenu'
+  end
+%>
+
+<hr/>
+
+<%= react_component 'Main' %>
